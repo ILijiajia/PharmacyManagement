@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "药库管理系统代码", "药库管理系统代码\药库管理系统代码.csproj", "{77EB8196-786D-4F77-86EA-DD2FA71CB96F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77EB8196-786D-4F77-86EA-DD2FA71CB96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EB8196-786D-4F77-86EA-DD2FA71CB96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EB8196-786D-4F77-86EA-DD2FA71CB96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EB8196-786D-4F77-86EA-DD2FA71CB96F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B810A2E-7124-44DB-A6F3-7D265A4A4AFF}
+	EndGlobalSection
+EndGlobal
